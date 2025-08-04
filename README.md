@@ -1,12 +1,13 @@
-🚗 Predicting Used Car Prices with Machine Learning
-🧠 Project Title
+**Predicting Used Car Prices with Machine Learning**
+
+Project Title
 Used Car Price Prediction using Regression Models
 Individual Project – MS in Business Analytics, UMass Amherst
 
-📌 Overview
+Overview
 This project focuses on building a predictive model to estimate the resale value of used cars based on features such as mileage, engine capacity, brand, fuel type, and more. The goal was to apply regression-based machine learning techniques to create a model that can deliver accurate and interpretable price predictions.
 
-🎯 Objectives
+Objectives
 Clean and preprocess real-world used car data
 
 Perform exploratory data analysis (EDA) to uncover trends and correlations
